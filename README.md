@@ -15,7 +15,7 @@
  - [Developer Program Member](https://developer.github.com/)
 <!--p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=fabpot&show_icons=true" alt="fabpot" /> </p-->
-
+- 1,290 contributions in the last year
 <p align="center">
 <a href="https://dev.to/nikkyamresh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="nikkyamresh" height="20" width="20" /></a>
 </p>
