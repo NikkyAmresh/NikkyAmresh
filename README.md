@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Magento developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikkyamresh" alt="nikkyamresh" /> </p>
 
-- 🔭 I’m currently working on [Fotonicia](https://gitlab.com/fotonicia/)
+- 🔭 I’m currently working on [Fotonicia](https://fotonicia.com/)
 
 - 💬 Ask me about **magento vue python**
 
