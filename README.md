@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Fotonicia](https://fotonicia.com/)
 
-- 💬 Ask me about **magento vue python**
+- 💬 Ask me about **magento2, vue2, python3**
 
 - 📫 How to reach me **nikkyamresh@icloud.com**
 
