@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nikky Amresh</h1>
-<h3 align="center">A passionate Magento developer from India</h3>
+<h3 align="center">A passionate Full Stack developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikkyamresh" alt="nikkyamresh" /> </p>
 
-- 🔭 I’m currently working on [Fotonicia](https://fotonicia.com/)
+- 🔭 I’m currently working on [Gramoday](https://gramoday.net)
 
-- 💬 Ask me about **magento2, vue2, python3**
+- 💬 Ask me about **Magento2, ReactJS, NodeJS, vue2, python3**
 
 - 📫 How to reach me **nikkyamresh@icloud.com**
 
