@@ -40,5 +40,5 @@
 
 ### Stats
 
-[![Nikky's github stats](https://github-readme-stats.vercel.app/api?username=NikkyAmresh&count_private=true&show_icons=true&hide=stars&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Nikky's github stats](https://github-readme-stats.vercel.app/api?username=NikkyAmresh&include_all_commits=true&count_private=true&show_icons=true&hide=stars&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikkyAmresh&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
