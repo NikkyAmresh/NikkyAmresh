@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikkyamresh" alt="nikkyamresh" /> </p>
 
-- 🔭 I’m currently working on [Gramoday](https://gramoday.net)
+- 🔭 I’m currently working on some personal projects.
 
 - 💬 Ask me about **Magento2, ReactJS, NodeJS, vue2, python3**
 
