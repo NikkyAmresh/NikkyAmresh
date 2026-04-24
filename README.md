@@ -73,9 +73,9 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikkyAmresh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p -->
 
-<p align="center">
+<!--p align="center">
   <img src="https://leetcard.jacoblin.cool/nikkyamresh?theme=dark&font=Baloo&ext=heatmap" />
-</p>
+</p-->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=NikkyAmresh&theme=tokyonight&hide_border=true" />
